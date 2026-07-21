@@ -86,10 +86,10 @@
   
 }
 
-    .card:hover {
+.card:hover {
       transform: translateY(-5px);
     }
-    footer {
+  footer {
       text-align: center;
       padding: 20px;
       color: #666;
